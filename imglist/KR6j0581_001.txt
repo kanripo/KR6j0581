@@ -1,0 +1,5 @@
+001-0864c00	TKD 12-0059a	buddhist/K-koreana/12-tif/0000-0099/12_0059_A.TIF
+001-0864c20	TKD 12-0059b	buddhist/K-koreana/12-tif/0000-0099/12_0059_B.TIF
+001-0865a21	TKD 12-0059c	buddhist/K-koreana/12-tif/0000-0099/12_0059_C.TIF
+001-0865a00	T 001-0865a	buddhist/T-taisho/T21/08/T21-0865.png
+001-0865b00	T 001-0865b	buddhist/T-taisho/T21/08/T21-0865.png
