@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說持句神經
+#+DATE: 2015-08-30 20:35:36.662895
+#+PROPERTY: JUAN 0
