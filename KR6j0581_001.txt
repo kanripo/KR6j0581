@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:36.411733
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:33
 #+TITLE: 佛說持句神呪經
 #+PROPERTY: CBETA_ID T21n1351
 #+PROPERTY: ID KR6j0581
